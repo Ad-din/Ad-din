@@ -1,6 +1,16 @@
 Ad (⎚ ⩊ ⎚ ྀིྀིྀིྀིྀི) Din</br>
 Turning caffeine into code and code into creativity! ☕💻</br></br>
 
+<details>
+  <summary>🔹 More About Me</summary>
+  <p>Here you can write more details or even embed images, GIFs, and links!</p>
+  <ul>
+    <li>🌱 Learning XYZ</li>
+    <li>💻 Working on XYZ</li>
+    <li>🎯 Aiming to become a pro in XYZ</li>
+  </ul>
+</details>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammad.abdullah.634154) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its__shiin__chan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abdullah-5818371b5) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Gullible_Conflict_16) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Its_Shin_Chan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@md.abdullah4106) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mda126044@gmail.com) 
