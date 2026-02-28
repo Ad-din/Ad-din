@@ -1,4 +1,4 @@
-Ad (⎚ ⩊ ⎚ ྀིྀིྀིྀིྀི) Din</br>
+</br>
 Turning caffeine into code and code into creativity! ☕💻</br></br>
 
 <details>
